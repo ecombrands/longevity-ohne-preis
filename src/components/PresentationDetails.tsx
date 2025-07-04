@@ -51,14 +51,6 @@ const PresentationDetails: React.FC = () => {
               <h3 className="text-3xl lg:text-4xl font-bold text-gray-800 mb-6">
                 FIBO 2026/2027 Partnerschaft
               </h3>
-
-              <div className="mb-8">
-                <div className="flex items-baseline justify-center mb-4">
-                  <span className="text-4xl lg:text-5xl font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">3.000€</span>
-                  <span className="text-xl text-gray-600 ml-3">/ Monat</span>
-                </div>
-                <p className="text-lg text-gray-600">Monatliches Beraterhonorar</p>
-              </div>
             </div>
 
             <div className="relative z-10">
